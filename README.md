@@ -1,7 +1,7 @@
 # faulty-calculater
 #calculater with some faulty result
-a = int(input("enter the first number\n"))
-b = int(input("enter the second number\n"))
+a = float(input("enter the first number\n"))
+b = float(input("enter the second number\n"))
 c = input("enter the opreater\n")
 if a==45 and b==3 and c=="*" :
     print("555")
